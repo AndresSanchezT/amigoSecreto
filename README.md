@@ -4,7 +4,10 @@ Aplicación web sencilla para agregar nombres de amigos a una lista y realizar u
 
 ## 📸 Vista previa
 
-![Vista previa](assets/amigo-secreto.png)
+![vistaprevia](https://github.com/user-attachments/assets/fb9b5f20-9e9d-4c8f-bd04-ad0c5fb34535)
+
+
+![Vista previa]
 
 ## 🚀 Funcionalidades
 
@@ -38,4 +41,4 @@ Aplicación web sencilla para agregar nombres de amigos a una lista y realizar u
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/AndresSanchezT/amigo-secreto.git
+   git clone https://github.com/AndresSanchezT/amigoSecreto
